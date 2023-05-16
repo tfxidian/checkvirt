@@ -1,0 +1,2 @@
+# checkvirt
+check virtualization type
